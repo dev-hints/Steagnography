@@ -1,5 +1,5 @@
-# STEGNOGRAPHY
-This is a Steagnography project developed in python 
+# STEGANOGRAPHY
+This is a Steganography project developed in python 
 
 ## TECHNOLOGY USED
 + Programming Language: Python
